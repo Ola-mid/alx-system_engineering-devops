@@ -1,2 +1,2 @@
-i!/bin/bash
+#!/bin/bash
 ls -la . .. /boot List all files/directories, including hidden files/directories
